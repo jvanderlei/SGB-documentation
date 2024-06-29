@@ -1,0 +1,42 @@
+<mxfile host="65bd71144e">
+    <diagram id="UkvFzc1OCfUQeMrT1-oB" name="Domain Context">
+        <mxGraphModel dx="792" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Authentication" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="730" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Accounts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="365" y="600" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="280" y="690" width="240" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="group" parent="10" vertex="1" connectable="0">
+                    <mxGeometry width="240" height="125.26315789473685" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="15" vertex="1">
+                    <mxGeometry width="240" height="125.26315789473685" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Support Subdomain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="15" vertex="1">
+                    <mxGeometry x="20" y="7.369196675900278" width="38.400000000000006" height="24.819944598337948" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;container=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="282.2" y="575" width="235.6" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Core Subdomain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="13" vertex="1">
+                    <mxGeometry x="-1.6248275862068968" width="64.99310344827587" height="48.8888888888889" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="IOzMxbNUsFdA7Z44Z5Si" name="Auth Subdomain">
+        <mxGraphModel dx="984" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
